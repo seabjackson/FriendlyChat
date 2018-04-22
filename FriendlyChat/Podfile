@@ -7,7 +7,11 @@ pod 'Firebase/Storage'
 pod 'Firebase/Core'
 pod 'Firebase/Database'
 pod 'Firebase/RemoteConfig'
-pod 'FirebaseUI'
+
+pod 'FirebaseUI/Auth'
+
+pod 'FirebaseUI/Google'
+
 
 target 'FriendlyChatSwift' do
 end
